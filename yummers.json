@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "65ff591371fae5f6d167370a"
+  },
+  "user": "anonymous",
+  "name": "anonymous",
+  "lastname": "",
+  "email": "anonymous@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65ff592771fae5f6d167370b"
+  },
+  "user": "esther",
+  "name": "Esther",
+  "lastname": "Carrasco",
+  "email": "esce@gmail.com"
+}]
+
+[{
+  "_id": {
+    "$oid": "65ff4fb671fae5f6d1673701"
+  },
+  "address": "4to Anillo Radial 27",
+  "phone": "59163254121",
+  "city": "Santa Cruz",
+  "country": "Bolivia",
+  "branchName": "Sucursal Norte",
+  "restaurantId": "65ff4f6e71fae5f6d16736fa"
+}]
+
+[{
+  "_id": {
+    "$oid": "65ff501a71fae5f6d1673704"
+  },
+  "name": "Brangus Burger",
+  "description": "",
+  "price": "$15.5",
+  "restaurantId": "65ff4f6e71fae5f6d16736fa"
+}]
+
+[{
+  "_id": {
+    "$oid": "65ff502f71fae5f6d1673705"
+  },
+  "day": "Friday",
+  "openingHour": "10:30:00",
+  "closingHour": "22:00:00",
+  "locationId": "65ff4f6e71fae5f6d16736fa"
+}]
+
+[{
+  "_id": {
+    "$oid": "65ff4f6e71fae5f6d16736fa"
+  },
+  "name": "El Cuartito",
+  "cusineType": "gourmet",
+  "founder": "Carlos Justiniano",
+  "headquartersCity": "Santa Cruz",
+  "headquartersCountry": "Bolivia",
+  "founded": "2010-08-21",
+  "website": "https://www.elcuartito.com.bo",
+  "email": "info@elcuartito.com"
+}]
+
+[{
+  "_id": {
+    "$oid": "65ff56e671fae5f6d1673708"
+  },
+  "rating": "3.5",
+  "review": "Had to wait a while to get served but food came out quickly after ordering.",
+  "datestamp": "2023-02-23 13:10:33",
+  "restaurantId": "65ff4f6e71fae5f6d16736fa",
+  "customerId": "65ff591371fae5f6d167370a"
+}]
