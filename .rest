@@ -2,6 +2,14 @@
 //GET 
 ###
 GET http://localhost:3000 HTTP/1.1
+//GET all restaurants
+###
+GET http://localhost:3000/restaurant HTTP/1.1
+
+
 //render
 ###
 GET https://cse341-project-yummers.onrender.com HTTP/1.1
+//GET all restaurants
+###
+GET https://cse341-project-yummers.onrender.com/restaurant HTTP/1.1
