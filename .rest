@@ -5,7 +5,21 @@ GET http://localhost:3000 HTTP/1.1
 //GET all restaurants
 ###
 GET http://localhost:3000/restaurant HTTP/1.1
-
+//GET all customers
+###
+GET http://localhost:3000/customer HTTP/1.1
+//GET all locations
+###
+GET http://localhost:3000/location HTTP/1.1
+//GET all menus
+###
+GET http://localhost:3000/menu HTTP/1.1
+//GET all openingHourss
+###
+GET http://localhost:3000/openingHours HTTP/1.1
+//GET all reviews
+###
+GET http://localhost:3000/review HTTP/1.1
 
 //render
 ###
@@ -13,3 +27,18 @@ GET https://cse341-project-yummers.onrender.com HTTP/1.1
 //GET all restaurants
 ###
 GET https://cse341-project-yummers.onrender.com/restaurant HTTP/1.1
+//GET all customers
+###
+GET https://cse341-project-yummers.onrender.com/customer HTTP/1.1
+//GET all locations
+###
+GET https://cse341-project-yummers.onrender.com/location HTTP/1.1
+//GET all menus
+###
+GET https://cse341-project-yummers.onrender.com/menu HTTP/1.1
+//GET all openingHourss
+###
+GET https://cse341-project-yummers.onrender.com/openingHours HTTP/1.1
+//GET all reviews
+###
+GET https://cse341-project-yummers.onrender.com/review HTTP/1.1
